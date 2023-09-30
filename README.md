@@ -1,2 +1,2 @@
-# Laboratorio_2
-# Edición del CV usando hojas de estilo CSS
+# Resume CSS
+Adding some style to my resume by using CSS.
